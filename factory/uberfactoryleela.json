@@ -1,0 +1,9 @@
+{
+	"name": "uberfactoryleela",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d923743-e80f-4055-8ba6-d57a1e825d3d",
+		"tenantId": "58f8e897-dd32-4860-acfe-78a7c3322585"
+	}
+}
